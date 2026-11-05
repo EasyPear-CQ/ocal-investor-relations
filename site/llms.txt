@@ -1,0 +1,43 @@
+# OCAL Financial Inc. (TSXV: OCAL, FSE: JC3)
+
+> OCAL Financial Inc. is a Canadian public company (TSX Venture Exchange: OCAL, since 21 July 2026; Frankfurt: JC3) that runs a technology-enabled automotive financing and purchasing platform. It solves the customer's problem first; the vehicle follows. A customer is approved by a lender first; OCAL, the licensed motor dealer of record, then buys the one vehicle that approval supports through OPENLANE, its auction and sourcing channel, and delivers it. OCAL holds no standing inventory and no consumer loans. It is not a broker.
+
+Key facts (as of 4 November 2026):
+- Legal name: OCAL Financial Inc. Head office: Suite 500, 885 Dunsmuir Street, Vancouver, BC V6C 1N5. Edmonton hub: 10515 103 Avenue NW, Edmonton, AB T5J 4P7.
+- Listings: TSX Venture Exchange OCAL (Tier 2). Frankfurt JC3, WKN A42K21, ISIN CA67449X1050, CUSIP 67449X105.
+- Fiscal year end 31 August. FY2025 (audited, DMCL LLP): revenue $6,480,254, up 18.8% from $5,454,893; gross profit $810,751 (12.5%), up from $610,787 (11.2%); operating expenses $1,114,195, down 9.8%; operating loss $303,444 (FY2024: $624,056); net loss $322,090 (FY2024: $586,206); cash from operations $64,121; cash at year end $266,936. Nothing from FY2026 until the audited statements are filed (due 29 December 2026).
+- Funded vehicle transactions: more than 1,500 since 2021. A funded vehicle transaction is a retail vehicle sale arranged through OCAL's platform for which the customer's financing contract was funded by a lender and the vehicle was delivered to the customer. The cumulative count is drawn from the Company's transaction records and lender reporting since its first funded transaction in 2021 and is not a measure presented in its financial statements.
+- Repossession rate under one percent and about 99 percent of signed contracts funded, from the first funded transaction in 2021 to 30 September 2026 (management information, lender reporting; 3 November 2026 release).
+- Lenders on the panel: RBC, Santander, iA Auto Finance, Eden Park, LendCare, Rifco and Iceberg.
+- Roadmap: British Columbia and Alberta now; Manitoba next (dealer permit application under way, opening targeted for December 2026 when the permit is granted; also serves Saskatchewan and northwestern Ontario); Ontario registration under way, targeted for 2027, subject to registration and capital; then the Maritimes; the United States from 2028, after the Canadian roll-out. No forecast is published.
+- Shares outstanding 36,667,803; about 48.3 million fully diluted; 23,638,104 shares in escrow; founders hold about 54%.
+- Licensed motor dealer in British Columbia (VSA D50207) and Alberta (AMVIC B2036050). Operating since April 2021.
+- Leadership: Mehdi Moghareh, Co-Founder and Chief Executive Officer; Matthew Friesen, Co-Founder, Executive Chairman and Director; Terence Lee, CPA, Chief Financial Officer; Ryan McDonald, Vice President of Sales; Hasneen Jalil leads technology and the demand engine. Independent directors Michael Stier (audit chair) and Robert Birmingham.
+- Annual general and special meeting: 10 December 2026, 9:00 am Vancouver time, Suite 1600, 925 West Georgia Street, Vancouver; record date 2 November 2026.
+- Investor documents (October 2026): https://investors.ocal.ca/presentations/ . Filed record: SEDAR+ (https://www.sedarplus.ca).
+- Auditor DMCL LLP. Transfer agent Endeavor Trust Corporation. Counsel Lawson Lundell LLP. Investor relations Signal Capital Advisors.
+- Operating metrics (vehicles funded and delivered, average vehicle selling price, gross profit per vehicle, gross margin) are published in a monthly results release, the first on 10 November 2026 for October 2026, and kept at https://investors.ocal.ca/operating-metrics/
+- Investor contact: investors@ocal.ca, 1 (604) 687-7765.
+
+Pages:
+- [We solve the problem first. The vehicle follows.](https://investors.ocal.ca/): OCAL Financial (TSXV: OCAL): the technology-enabled automotive financing and purchasing platform. Approval first, zero standing inventory, audited growth.
+- [Problem. Platform. Solution. Thesis.](https://investors.ocal.ca/why-ocal/): Why invest in OCAL: the problem, the platform, the solution and the thesis. Approval first, zero standing inventory, audited growth, operating leverage.
+- [Five steps. No lot. No loan book.](https://investors.ocal.ca/how-it-works/): How OCAL finances and sources a vehicle, approval first: apply, qualify, approve, match through OPENLANE, deliver. Who carries the risk, how OCAL earns.
+- [TSXV: OCAL](https://investors.ocal.ca/stock/): OCAL share price and chart (TSXV: OCAL, Frankfurt: JC3), shares outstanding, warrants, options, escrow schedule and transfer agent.
+- [Audited. Filed. Linked.](https://investors.ocal.ca/financials/): Audited statements, MD&A, interims and the Filing Statement with SEDAR+ links. FY2025 revenue $6.48M audited; FY2026 results due by 29 December.
+- [Four numbers, every period.](https://investors.ocal.ca/operating-metrics/): Vehicles funded, average selling price, gross profit per vehicle and gross margin, published monthly under fixed definitions. Historical, unaudited.
+- [What we said, when we said it.](https://investors.ocal.ca/news/): Every OCAL Financial news release since the TSXV listing on 21 July 2026, filed on SEDAR+ and distributed by Newsfile. Get releases by email.
+- [OCAL Financial Reports a Historical Repossession Rate Under One Percent, Highlighting the Strength of Its Asset-Light Automotive Financing Platform, and Announces Meeting Date for Its 2026 Annual General and Special Meeting](https://investors.ocal.ca/news/2026-11-03-repossession-rate-and-agm/): OCAL Financial (TSXV: OCAL) reports a repossession rate under one percent since 2021, about 99 percent of contracts funded, and sets its 2026 AGM for 10 December.
+- [Dates that matter.](https://investors.ocal.ca/events/): OCAL Financial's AGM on 10 December 2026, filing deadlines, monthly operating updates and conferences, with materials posted the same day.
+- [Dated, versioned, current.](https://investors.ocal.ca/presentations/): OCAL Financial's current investor presentation, elevator pitch, four-page brief, long-form briefing and investor Q&A, October 2026. Dated and versioned, with SEDAR+ links.
+- [We solve the problem first. The vehicle follows.](https://investors.ocal.ca/fact-sheet/): One-page OCAL fact sheet: audited FY2025 revenue $6.48M, zero standing inventory, 1,500+ funded deals, the five steps and the roll-out. Printable.
+- [Small company. Public standards.](https://investors.ocal.ca/governance/): OCAL Financial's board of directors, audit and governance committees, policies, AGM materials, auditor, counsel and transfer agent.
+- [One ran the dealerships. The other's family ran the auction.](https://investors.ocal.ca/leadership/): The people running OCAL Financial: CEO Mehdi Moghareh, Executive Chairman Matthew Friesen, CFO Terence Lee, the team and the board.
+- [The hard questions, answered first.](https://investors.ocal.ca/faq/): Thirty investor questions answered plainly: is OCAL a broker, where the cars come from, who takes the credit risk, going concern, escrow, insiders.
+- [Talk to the people who run it.](https://investors.ocal.ca/contact/): Contact OCAL investor relations: investors@ocal.ca, 1 (604) 687-7765, book a call with the founders, transfer agent details and email alerts.
+- [Every release, within the hour.](https://investors.ocal.ca/subscribe/): Every OCAL Financial news release, operating update and filing by email within the hour of distribution. Double opt-in, unsubscribe any time.
+- [The facts, in one place.](https://investors.ocal.ca/facts/): Reference facts for OCAL Financial Inc.: legal name, TSXV and Frankfurt symbols, ISIN, CUSIP, LEI, head office, officers, auditor, transfer agent.
+- [Read this once.](https://investors.ocal.ca/legal/): Forward-looking information, non-IFRS measures, no offer of securities, third-party data, privacy and terms for the OCAL Financial investor site.
+
+Customer site: https://ocalfinancial.ca (consumer financing is on approved credit; the lender makes the final approval).
+Continuous disclosure: SEDAR+ (https://www.sedarplus.ca).

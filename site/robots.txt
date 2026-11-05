@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://investors.ocal.ca/sitemap.xml
+Sitemap: https://investors.ocal.ca/news-sitemap.xml

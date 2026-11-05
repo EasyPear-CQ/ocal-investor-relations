@@ -1,0 +1,15 @@
+{
+ "name": "OCAL Financial Investors",
+ "short_name": "OCAL IR",
+ "icons": [
+  {
+   "src": "/assets/img/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ],
+ "theme_color": "#0A1432",
+ "background_color": "#ffffff",
+ "display": "browser",
+ "start_url": "/"
+}
